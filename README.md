@@ -1,1 +1,1 @@
-# SimpleRegisterForm
+# simple-register-form
